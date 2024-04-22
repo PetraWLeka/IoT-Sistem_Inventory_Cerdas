@@ -3,7 +3,7 @@
 #include <WiFi.h>
 #include <PubSubClient.h>
 #include <SPI.h>
-
+//
 // 1: Bolt
 // 2: Nut silver
 // 3: Nut black
